@@ -1,0 +1,4 @@
+* TODO collision detection
+* TODO guile for data definition
+* TODO event system
+* TODO hooks+callbacks

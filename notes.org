@@ -1,0 +1,27 @@
+* potential scripting languages
+** i want a lisp
+*** hy
+**** people like python
+*** clojurescript
+*** guile
+**** this seems to align ideologically
+*** urn
+** can it run in the browser w/ webassembly?
+* ecs = entt https://github.com/skypjack/entt/wiki/Crash-Course:-entity-component-system
+** runtime changes?
+* things
+** components?
+*** draw
+*** move
+*** animate
+**** can be in different animation states
+***** idle
+***** move in a given direction
+***** action
+****** attack?
+****** jump
+****** use item
+*** physics?
+** input
+** menu
+* where to put foreign objects
